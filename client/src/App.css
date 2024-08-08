@@ -1,0 +1,31 @@
+.homepage-container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.homepage-container .wrapper input{
+    font-size: 24px;
+    display: block;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 0.5px solid gray;
+
+}
+
+.homepage-container .wrapper button{
+
+    display: block;
+    font-size: 24px;
+    padding: 10px 20px;
+    width: 100%;
+    cursor: pointer;
+    border-radius: 10px;
+    border:2px solid gray;
+}
